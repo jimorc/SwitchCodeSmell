@@ -8,7 +8,7 @@ There are two directories in this Visual Studio 2017 solution:
     - CardSuit3.cs contains a third implementation that provides a simpler solution to the code smell.
 - xUnitTests - unit tests for the three classes in the PlayingCards project.
     
-##Requirements
+## Requirements
 1. Visual Studio 2017 Update 1 or later.
 2. .Net 4.6.1 (loaded with VS 2017).
 3. xUnit.Net (should be loaded automatically the first time you build the solution).
